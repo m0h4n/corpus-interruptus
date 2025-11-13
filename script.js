@@ -4,10 +4,10 @@ window.onload = function () {
     autoLoad: true,
     autoSave: true,
     layers: [
-      document.getElementById("hydra-iframe1"),
-      document.getElementById("hydra-iframe2"),
-      document.getElementById("hydra-iframe3"),
-      document.getElementById("hydra-iframe4"),
+      document.getElementById("pared1"),
+      document.getElementById("pared2"),
+      document.getElementById("fondo"),
+      document.getElementById("techo"),
     ],
   });
 };
