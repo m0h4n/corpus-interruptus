@@ -12,10 +12,10 @@ body {
 
 /* Tamaño uniforme para los iframes */
 .map iframe {
-  width: 400px;
-  height: 400px;
+  width: 200px;
+  height: 200px;
   border: none;
-    /* border-radius: 50%;  */
+  /* border-radius: 50%;  */
   /* Opcional: circular para todos */
 }
 
@@ -23,7 +23,6 @@ body {
    border-radius: 50%; 
 } */
 /* opción para un solo iframe que queramos circular */
-
 
 /* #hydra-iframe2 iframe {
   clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
@@ -46,8 +45,6 @@ clip-path: polygon(
 /* Ejemplo para octágono */
 
 /* Distribución básica opcional */
-
-
 
 .map {
   display: inline-block;
