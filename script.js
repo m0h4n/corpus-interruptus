@@ -4,10 +4,12 @@ window.onload = function () {
     autoLoad: true,
     autoSave: true,
     layers: [
-      document.getElementById("pared1"),
-      document.getElementById("pared2"),
-      document.getElementById("fondo"),
-      document.getElementById("techo"),
+      document.getElementById("rumiar"),
+      document.getElementById("latir"),
+      document.getElementById("respirar"),
+      document.getElementById("digerir"),
+      document.getElementById("expulsar"),
+      document.getElementById("caminar"),
     ],
   });
 };
